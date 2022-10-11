@@ -1,8 +1,5 @@
 To be implemented:
 
-- Selection Sort
-- Bubble Sort
-- Insertion Sort
 - Merge Sort
 - 3 Way Merge Sort
 - Quick Sort
@@ -19,3 +16,7 @@ For fun!:
 - BOGO Sort (Choose small array size - permutation sort)
 
 Implemented:
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
