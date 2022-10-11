@@ -1,4 +1,4 @@
-function App() {
+function App(): JSX.Element {
   return (
     <div className="bg-blue-200 h-10">
       <h1>Hello World</h1>
